@@ -1,4 +1,4 @@
-package thisisjava.ch03;
+package thisisjava.ch03.sec01;
 
 public class IncreaseDecreaseOperatorExample {
   public static void main(String[] args) {
