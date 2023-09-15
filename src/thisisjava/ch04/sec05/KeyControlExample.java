@@ -28,5 +28,9 @@ public class KeyControlExample {
       }
     }
     System.out.println("프로그램 종료");
+    // 11라인의 while 조건식을 보면 run 변수의 값에 따라 while 문의 반복 여부가 결정된다.
+    // 처음 run 변수의 값은 true이므로 while 문은 무한 반복된다.
+    // 키보드로 3을 입력하면 run 변수의 값이 false가 되어 while 문의 조건식이 false가 된다. 이때 무한 반복을 종료하고 while 문을 빠져나간다.
+    // while 문을 빠져나가는 또 다른 방법으로 break 문을 이용할 수도 있다.
   }
 }
