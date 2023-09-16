@@ -6,9 +6,9 @@ public class VariableInitializationExample {
     int value;
 
     // 연산 결과를 변수 result의 초시값으로 대입
-    int result = value + 10;      // 컴파일 오류
+    //int result = value + 10;      // 컴파일 오류
 
     // 변수 result 값을 읽고 콘솔에 출력
-    System.out.println(result);
+    //System.out.println(result);
   }
 }
