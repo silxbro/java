@@ -1,4 +1,4 @@
-package thisisjava.ch06.sec06;
+package thisisjava.ch06.sec06.exam01;
 
 public class Car {
   // 필드 선언
