@@ -1,4 +1,4 @@
-package thisisjava.ch07.sec07;
+package thisisjava.ch07.sec07.exam01;
 
 class A {
 }
