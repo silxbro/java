@@ -15,6 +15,6 @@ break 문은 대개 if 문과 같이 사용되어 조건식에 따라 for 문과
 
 <img src="https://github.com/silxbro/java/assets/142463332/beea916f-582b-4a6c-92b8-5a64d4fd4495" width="450" height="200"/>
 
-다음 예제를 보면 바깥쪽 for 문은 'A'~'Z'까지 반복하고, 중첩된 for 문은 'a'~'z'까지 반복한다. 중첩된 for 문에서 lower 변수가 'g'를 갖게 되면 바깥쪽 for 문까지 빠져나오도록 바깥쪽
+다음 예제를 보면 바깥쪽 for 문은 'A'\~'Z'까지 반복하고, 중첩된 for 문은 'a'\~'z'까지 반복한다. 중첩된 for 문에서 lower 변수가 'g'를 갖게 되면 바깥쪽 for 문까지 빠져나오도록 바깥쪽
 for문에 Outter라는 라벨을 붙였다.
 - [BreakOutterExample.java](https://github.com/silxbro/java/blob/main/src/thisisjava/ch04/sec07/BreakOutterExample.java)
